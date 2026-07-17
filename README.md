@@ -11,3 +11,5 @@ including a customer retention offer projected to add real incremental revenue
 if implemented.
 
 ## The Preview
+
+<img width="931" height="877" alt="dashboard_preview (2)" src="https://github.com/user-attachments/assets/eed105d0-b6a9-4355-9ffa-8aea6bed7ba3" />
