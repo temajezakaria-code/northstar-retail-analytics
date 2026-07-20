@@ -97,4 +97,13 @@ A conservative, data-grounded scenario for Recommendation #1:
 - **Interactive-style Excel workbook** — pivot-style summaries, conditional formatting, VLOOKUP/INDEX-MATCH lookups
 - **Executive-ready dashboards** — 4-page Power BI design covering executive, sales, customer, and operations views
 
-## Project Structure
+## Tools & Techniques Demonstrated
+
+- **SQL:** joins, CTEs, window functions (RANK, NTILE, LAG), CASE-based segmentation, cohort/date analysis
+- **Python:** data cleaning, validation, outlier detection, feature engineering, EDA
+- **Excel:** pivot-style summaries, pivot charts, conditional formatting, VLOOKUP/INDEX-MATCH
+- **Power BI:** star-schema modeling, DAX time-intelligence, multi-page dashboard design
+
+---
+
+© 2026 Temaje Zakaria. All rights reserved.
